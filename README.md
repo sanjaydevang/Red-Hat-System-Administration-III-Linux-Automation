@@ -1,7 +1,7 @@
 # Red-Hat-System-Administration-III-Linux-Automation
 
 
-# 🔧 Red Hat System Administration III: Linux Automation Labs
+
 
 This repository contains Ansible-based automation lab exercises completed as part of the Red Hat System Administration III (RH294) course. The labs focus on automating Linux system configurations and services using Red Hat Enterprise Linux and Ansible best practices.
 
